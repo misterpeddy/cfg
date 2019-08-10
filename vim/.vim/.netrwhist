@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/peddy/repos/go/src/github.com/unclepeddy/lynq/providers/calendar'
+let g:netrw_dirhist_2='/home/peddy/repos/go/src/github.com/unclepeddy/lynq/providers/music/clients'
+let g:netrw_dirhist_3='/home/peddy/repos/go/src/github.com/unclepeddy/lynq/providers/calendar/googlecalendar'
+let g:netrw_dirhist_4='/home/peddy/repos/go/src/github.com/unclepeddy/lynq/clients/seatgeek'
+let g:netrw_dirhist_5='/home/peddy/repos/go/src/github.com/unclepeddy/lynq/clients'
